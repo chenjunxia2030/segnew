@@ -1,0 +1,13 @@
+https://my.oschina.net/u/2519051/blog/979057
+1.git config --global user.name 'chenjunxia2030'
+
+2.git config --global user.email 'chenjunxia2030@163.com'
+
+3.
+ ssh-keygen -t rsa -C 'chenjunxia2030@163.com'
+
+4.sudo gedit  ~/.ssh/id_rsa.pub
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCr98d1TkVlICL8Dgu+v0r5Ggo1pRrENhJwjwZFqCp1ASI6fj2K7yGAb85K2Nn0MFMROUq+2xLmbDC+k+uxLsaO221mc7XZRbADQ7DkAy9b4g+8+HckuoGnszbNVDPwuoP8fDSeXGi60d7qHgLcMLiFez72qSy7e4uwuMz7fIRc1t7e2msyFPuluF6v59jGfTHy5HAod/2AulE1V57iBUshYud3P4lSxOz8SR83z2n4QHmkNvLUzfQ+9WUeE3SEKyvMzZBGRlt9KQzIn142HvLO440aDCxr9QIbqwrYrg4uoXGFl58yqodCz0GYISgvCVqnxjoIgRW3T2g+cCLkBsPX chenjunxia2030@163.com
+
